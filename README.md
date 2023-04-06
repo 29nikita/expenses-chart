@@ -29,6 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71252906/230427844-cc726c8e-bfd2-4363-bbc0-fae4d01494c3.png">
+
+Mobile View
+
+<img width="244" alt="image" src="https://user-images.githubusercontent.com/71252906/230427976-18fa2208-2a3d-4232-b20e-475bb7c5ffd8.png">
 
 ### Links
 
