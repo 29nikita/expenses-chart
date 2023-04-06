@@ -31,7 +31,7 @@ Users should be able to:
 
 Desktop View
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/71252906/230427844-cc726c8e-bfd2-4363-bbc0-fae4d01494c3.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71252906/230428237-666fcbdb-3e6b-457e-8015-3243d228a575.png">
 
 Mobile View
 
