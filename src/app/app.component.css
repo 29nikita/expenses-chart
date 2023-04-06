@@ -1,0 +1,91 @@
+.section-first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    width: 350px;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 15px;
+}
+
+.section-first-heading{
+    font-family: DM Sans;
+    color: hsl(33, 100%, 98%);
+    font-size: 12px;
+}
+
+.total-money{
+    font-family: DM Sans;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.section-first .first-column{
+    margin-left: 20px;
+}
+
+.section-first .second-column{
+    margin-right: 10px;
+}
+
+.section-second{
+    background-color: hsl(33, 100%, 98%);
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.section-second-heading{
+    color: hsl(25, 47%, 15%);
+    font-family: DM Sans;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 22px;
+}
+
+.chart-separator{
+    margin: 5px 20px;
+    border: 1px solid hsl(27, 66%, 92%);
+}
+
+.total-value-heading{
+    color: hsl(28, 10%, 53%);
+    font-family: DM sans;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.total-value{
+    color: hsl(25, 47%, 15%);
+    font-family: DM Sans;
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.increment-footer{
+    color: hsl(28, 10%, 53%);
+    font-family: DM sans;
+    font-size: 13px;
+}
+
+.increment{
+    color: hsl(25, 47%, 15%);
+    font-family: DM Sans;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+@media screen and (max-width: 375px) {
+    .section-first{
+        width: 300px;
+    }
+
+    .section-second{
+        width: 300px;
+    }
+    
+}
